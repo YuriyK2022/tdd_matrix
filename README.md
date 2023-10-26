@@ -12,7 +12,9 @@ $ npm install
 ```
 # First Step - Create simple test
 3. In the work directory, create folder test and create file matrixOperations.test.js.
+
 Create simple test for addition two matrices (as example).
+
 New function matrixAddition() is on implemenetd yet.
 ```js
 const Mtrx2 = require("../Mtrx2");  // Path to the Mtrx2 module
