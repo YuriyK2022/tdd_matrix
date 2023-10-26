@@ -46,7 +46,7 @@ $ npm test
 ![image](https://github.com/YuriyK2022/tdd_matrix/assets/118524489/59ac5fd3-931e-405b-867b-b25100d947b6)
 
 # Second Step - Implement matrixAddition() function:
-6. Now, implement the matrix addition function in the Mtrx2.js file and ssve in the path: ...\test_matrix\Mtrx\src
+6. Now, implement the matrix addition function in the Mtrx2.js file and save in the path: ...\test_matrix\Mtrx\src
 ```js
 function matrixAddition(matrix1, matrix2) {
   if (
