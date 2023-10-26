@@ -15,7 +15,7 @@ $ npm install
 
 Create simple test for addition two matrices (as example).
 
-New function matrixAddition() is not implemenetd yet:
+New function matrixAddition() is not implemeneted yet:
 
 ```js
 const Mtrx2 = require("../Mtrx2");  // Path to the Mtrx2 module
